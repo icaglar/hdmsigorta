@@ -69,7 +69,7 @@
 		<div class="max-w-7xl mx-auto px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-4">
 			<p class="text-sm text-charcoal-600 text-center sm:text-left">
 				Web sitemizde deneyiminizi iyileştirmek için çerezler kullanıyoruz.
-				<a href="#" class="text-teal-700 underline">Çerez Politikası</a>
+				<a href="/cerez-politikasi" class="text-teal-700 underline">Çerez Politikası</a>
 			</p>
 			<div class="flex items-center gap-3 shrink-0">
 				<button

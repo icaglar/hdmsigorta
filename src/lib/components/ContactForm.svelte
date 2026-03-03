@@ -162,7 +162,7 @@
 								class="mt-1 w-4 h-4 rounded border-charcoal-300 text-teal-700 focus:ring-teal-500"
 							/>
 							<span class="text-sm text-charcoal-500">
-								<a href="#" class="text-teal-700 underline">KVKK Aydınlatma Metni</a>'ni okudum, kişisel verilerimin işlenmesini kabul ediyorum. *
+								<a href="/kvkk" class="text-teal-700 underline">KVKK Aydınlatma Metni</a>'ni okudum, kişisel verilerimin işlenmesini kabul ediyorum. *
 							</span>
 						</label>
 						{#if errors.kvkk}<p class="text-red-500 text-sm mt-1">{errors.kvkk}</p>{/if}
